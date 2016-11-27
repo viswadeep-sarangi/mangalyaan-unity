@@ -63,6 +63,7 @@
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\readme_SDK.txt" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\Rs_2000_back.xml" />
  <Reference Include="Assembly-UnityScript-Editor-firstpass">
  <HintPath>D:/UNITY PROJECTS/Modi ki note Mangalyaan/Library/ScriptAssemblies/Assembly-UnityScript-Editor-firstpass.dll</HintPath>
  </Reference>
